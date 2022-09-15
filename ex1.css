@@ -1,0 +1,29 @@
+*{
+    border-radius: 1ch;
+    border-color: lightseagreen;
+    font-style: italic;
+    
+}
+#letters
+{
+   font-style: normal;
+   
+}
+.container{
+    height: 1000px;
+    width: 900px;
+    padding: 10px;
+    border: 2px dashed brown;
+    margin: 50px auto;
+    
+}
+#fancy{
+    font-style:initial;
+    color:brown;
+}
+#try{
+    font-style: initial;
+    font-size: larger;
+    color: brown;
+}
+
